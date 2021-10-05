@@ -1,5 +1,8 @@
-### Hi there 👋
-
+ Hi 👋, I'm Shreyas
+          A Passionate Full Stack Developer From Maharashtra,India
+          
+          
+          🌱 I’m currently learning Angular and SpringBoot Freamwork
 <!--
 **Shreyas3-git/Shreyas3-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
