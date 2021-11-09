@@ -5,7 +5,7 @@
  <img src="https://komarev.com/ghpvc/?username=Shreyas3-git & label=Profile%20views&color=0e75b6&style=flat" alt="Shreyas3-git"/> 
 </p>
 
-- 🌱 I’m currently learning **React and Spring Boot**
+- 🌱 I’m currently learning **ReactJs and Spring Boot**
 
 
 <h3 align="left">Languages and Tools:</h3>
