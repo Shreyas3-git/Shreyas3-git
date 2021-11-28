@@ -14,7 +14,7 @@
  <img src="https://www.w3schools.com/whatis/img_npm.jpg" alt="npm" width="40" height="40"/> </a> 
  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
  
- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--50wZvNu6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png" alt="react" width="40" height="40"/> </a> <a href="https://react.io" target="_blank"></a> 
+ <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--50wZvNu6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png" alt="react" width="70" height="70"/> </a> <a href="https://react.io" target="_blank"></a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact" alt="Shreyas3-git" /></p>
