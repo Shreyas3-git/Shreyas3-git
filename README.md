@@ -1,22 +1,58 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
-<h3 align="center">A passionate Developer from Maharashtra, India</h3>
+<h3 align="center">A Passionate Developer from Maharashtra, India</h3>
 
-<p align="left"> 
- <img src="[https://komarev.com/ghpvc/?username=Shreyas3-git & label=Profile%20views&color=0e75b6&style=flat](https://th.bing.com/th/id/OIP.vC_z4geBOlk0RCapIiDSrgHaEZ?rs=1&pid=ImgDetMain)" alt="Shreyas3-git"/> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreyas3-git&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🌱 I’m currently Working on **Spring Boot Microservices**
+---
 
+### 🌟 About Me
+Hey there! I’m Shreyas, a developer who loves crafting scalable solutions and diving into new tech. I’m currently exploring **Spring Boot Microservices** and building projects that make a difference. When I’m not coding, you’ll find me tinkering with Linux or experimenting with React.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- <a href="https://www.npmjs.com/" target="_blank"> 
- <img src="https://www.w3schools.com/whatis/img_npm.jpg" alt="npm" width="40" height="40"/> </a> 
- <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--50wZvNu6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png" alt="react" width="80" height="40"/> </a> <a href="https://react.io" target="_blank"></a> 
+---
+
+### 🛠️ Skills and Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Mockito-4B0082?style=flat-square&logo=mockito" alt="Mockito" />
+  <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit" alt="JUnit" />
+</p>
+---
+
+### 🚀 Featured Projects
+- **[bookmyshow]**: A cool app built with Spring Boot,Microservices,Spring Security. [Check it out](https://github.com/Shreyas3-git/bookmyshow)
+  
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas3-git&show_icons=true&theme=radical" alt="Shreyas's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas3-git&theme=radical" alt="Streak Stats" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact" alt="Shreyas3-git" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyas3-git&show_icons=true&locale=en" alt="Shreyas3-git" /></p>
+### 📬 Get in Touch
+- **Email**: [mr.shreyasshinde@gmail.com](mailto:mr.shreyasshinde@gmail.com)  
+- **LinkedIn**: ([https://linkedin.com/in/shreyas-shinde](https://www.linkedin.com/in/shreyas-shinde-384328265/))    
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas3-git&" alt="Shreyas3-git" /></p>
+---
+
+<p align="center">
+  Thanks for stopping by! Feel free to explore my repos and reach out if you’d like to collaborate. 🚀
+</p>
