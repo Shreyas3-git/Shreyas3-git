@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer from Maharashtra, India</h3>
 
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=Shreyas3-git & label=Profile%20views&color=0e75b6&style=flat" alt="Shreyas3-git"/> 
+ <img src="[https://komarev.com/ghpvc/?username=Shreyas3-git & label=Profile%20views&color=0e75b6&style=flat](https://th.bing.com/th/id/OIP.vC_z4geBOlk0RCapIiDSrgHaEZ?rs=1&pid=ImgDetMain)" alt="Shreyas3-git"/> 
 </p>
 
 - 🌱 I’m currently Working on **Spring Boot Microservices**
