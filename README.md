@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-Hey there! I’m Shreyas, a developer who loves crafting scalable solutions and diving into new tech. I’m currently exploring **Spring Boot Microservices** and building projects that make a difference. When I’m not coding, you’ll find me tinkering with Linux or experimenting with React.
+Hey there! I’m Shreyas, a developer who loves crafting scalable solutions and diving into new tech. I’m currently exploring **Spring Boot Microservices** and building projects that make a difference.
 
 ---
 
@@ -18,8 +18,6 @@ Hey there! I’m Shreyas, a developer who loves crafting scalable solutions and 
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring" alt="Spring Security" />
   <img src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring" alt="Spring Cloud" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux" alt="Linux" />
