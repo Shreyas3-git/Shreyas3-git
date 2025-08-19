@@ -1,126 +1,396 @@
-<h1 align="center">Hi 👋, I'm Shreyas</h1>
-<h3 align="center">A Passionate Developer from Maharashtra, India</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreyas3-git&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=200&section=header&text=Shreyas%20Shinde&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlign=50&descAlignY=55&descSize=18" />
+</div>
+
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Hey!+I'm+Shreyas+%F0%9F%91%8B;Java+Developer+%E2%98%95;Spring+Boot+Expert+%F0%9F%9A%80;Microservices+Architect;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<!-- Profile Views & Stats -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreyas3-git&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Shreyas3-git?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Location-Maharashtra,%20India-red?style=for-the-badge&logo=google-maps" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Spring%20Boot-success?style=for-the-badge&logo=spring" alt="Focus" />
+</div>
+
+<br>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 About Me
+
+<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
+```javascript
+const shreyas = {
+    name: "Shreyas Shinde",
+    location: "Maharashtra, India 🇮🇳",
+    role: "Full Stack Java Developer",
+    company: "Open to opportunities",
+    
+    // Current Tech Stack
+    languages: ["Java", "JavaScript", "SQL", "HTML/CSS"],
+    frameworks: ["Spring Boot", "Spring Security", "Spring Cloud"],
+    databases: ["MySQL", "PostgreSQL", "Redis"],
+    tools: ["Docker", "Git", "Maven", "Postman", "IntelliJ IDEA"],
+    
+    // Currently Learning
+    exploring: ["Kubernetes", "AWS", "React", "MongoDB"],
+    
+    // Goals for 2025
+    goals: [
+        "Master Microservices Architecture",
+        "Contribute to Open Source",
+        "Learn Cloud Technologies",
+        "Build Production-Ready Apps"
+    ],
+    
+    // Life motto
+    motto: "Code with passion, debug with patience ☕"
+};
+```
+
+### 🌟 Quick Facts
+- 🔭 Currently working on **Advanced Spring Boot Microservices**
+- 🌱 Learning **Docker, Kubernetes & Cloud Technologies**
+- 👯 Looking to collaborate on **Java/Spring Boot Projects**
+- 🤔 Ask me about **Java, Spring Framework, System Design**
+- 📫 Reach me at **mr.shreyasshinde@gmail.com**
+- ⚡ Fun fact: **I can debug code faster with coffee** ☕
 
 ---
 
-### 🌟 About Me
-Hey there! I'm Shreyas, a developer who loves crafting scalable solutions and diving into new tech. I'm currently exploring **Spring Boot Microservices** and building projects that make a difference.
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78909C?style=for-the-badge&logo=mockito&logoColor=white)
+
+### Databases & Storage
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2-004088?style=for-the-badge&logo=h2&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
 
 ---
 
-### 🛠️ Skills and Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring" alt="Spring Cloud" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman" alt="Postman" />
-  <img src="https://img.shields.io/badge/-Mockito-4B0082?style=flat-square&logo=mockito" alt="Mockito" />
-  <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit" alt="JUnit" />
-</p>
+## 🎯 Featured Project
 
----
+<div align="center">
 
-### 🚀 Featured Projects
-- **[BookMyShow Clone]**: A comprehensive ticket booking application built with Spring Boot, Microservices architecture, and Spring Security. Features include user authentication, seat booking, payment integration, and real-time availability updates. [Check it out](https://github.com/Shreyas3-git/bookmyshow)
+### 🎬 BookMyShow - Ticket Booking Platform
 
----
+[![BookMyShow Repo](https://img.shields.io/badge/🚀_View_Repository-BookMyShow_Clone-blue?style=for-the-badge&logo=github)](https://github.com/Shreyas3-git/bookmyshow)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas3-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&v=2025" alt="Shreyas's GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800&v=2025" alt="Top Languages" />
-</p>
+**🏗️ Architecture:** Microservices-based architecture with Spring Boot  
+**🔐 Security:** JWT Authentication with Spring Security  
+**💾 Database:** MySQL with JPA/Hibernate ORM  
+**🧪 Testing:** Comprehensive testing with JUnit 5 & Mockito
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shreyas3-git&theme=radical&cache_seconds=1800" alt="GitHub Streak Stats" />
-</p>
+#### ✨ Key Features Implemented:
+```yaml
+🎫 Booking Management:
+  ├── Real-time seat selection
+  ├── Payment gateway integration  
+  ├── Booking confirmation via email
+  └── Cancellation & refund handling
 
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas3-git&bg_color=141321&color=ff6e96&line=ff6e96&point=f8d847&area=true&hide_border=true" alt="Contribution Activity Graph" />
-</p>
+🔐 User Authentication:
+  ├── JWT-based authentication
+  ├── Role-based access control (User/Admin)
+  ├── Password encryption with BCrypt
+  └── Session management
 
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreyas3-git&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 💻 Current Focus
-- 🔭 Working on **Advanced Spring Boot Microservices Architecture**
-- 🌱 Learning **Docker & Kubernetes for containerization**
-- 👯 Looking to collaborate on **Open Source Java Projects**
-- 💬 Ask me about **Spring Framework, MySQL, and System Design**
-- ⚡ Fun fact: **I debug code faster with coffee ☕**
-
----
-
-### 📊 Weekly Development Breakdown
-```text
-Java         12 hrs 30 mins  ████████████░░░░░   68.5%
-Spring Boot   3 hrs 45 mins  ████░░░░░░░░░░░░░   20.6%
-MySQL         1 hr 15 mins   ██░░░░░░░░░░░░░░░    6.8%
-YAML           45 mins       █░░░░░░░░░░░░░░░░    4.1%
+🏛️ System Architecture:
+  ├── RESTful API design
+  ├── Service layer architecture
+  ├── Data validation & error handling
+  └── Logging & monitoring
 ```
 
 ---
 
-### 🔗 Connect With Me
-<p align="center">
-  <a href="mailto:mr.shreyasshinde@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shreyas-shinde-384328265/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Shreyas3-git">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+## 📊 GitHub Statistics
+
+<!-- Alternative GitHub Stats -->
+<div align="center">
+  
+<!-- GitHub Stats Card -->
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Shreyas3-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+
+<!-- Most Used Languages -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
+
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shreyas3-git&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<!-- Contribution Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas3-git&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon: Technical articles on Spring Boot best practices
-- Coming Soon: Microservices design patterns explained
-- Coming Soon: Database optimization techniques
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🎯 2025 Goals
-- [ ] Contribute to 5+ open source projects
-- [ ] Master Docker & Kubernetes
-- [ ] Build and deploy 3 production-ready microservices
-- [ ] Write technical blogs on Spring ecosystem
-- [x] Complete advanced Spring Security implementation
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Shreyas3git&theme=radical&v=2025" alt="WakaTime Stats" />
-</p>
-
----
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreyas3-git&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Coding Activity & Stats
+
+<div align="center">
+
+### 💻 This Week I Spent Time On:
+
+```text
+Java                 ████████████████████████▓   68.5% 
+Spring Framework     ██████████▓░░░░░░░░░░░░░░   20.6%
+Database Design      ████▓░░░░░░░░░░░░░░░░░░░░    6.8%
+Configuration        ██▓░░░░░░░░░░░░░░░░░░░░░░    4.1%
+```
+
+### 🔥 Current Learning Streak:
+- 🎯 **150+ Days** of consistent coding
+- 📚 **5+ Technologies** actively learning
+- 🚀 **3+ Projects** in development
+- 💡 **Daily** algorithm practice
+
+</div>
+
+---
+
+## 🎯 2025 Goals & Roadmap
+
+<div align="center">
+
+### 🚀 Technical Goals
+- [ ] 🌟 **Open Source**: Contribute to 10+ repositories
+- [ ] ☁️ **Cloud**: Master AWS/Azure services  
+- [ ] 🐳 **DevOps**: Docker & Kubernetes proficiency
+- [ ] 🏗️ **Architecture**: Build scalable microservices
+- [ ] 📝 **Content**: Write technical blog posts
+- [x] ✅ **Security**: Advanced Spring Security implementation
+
+### 📊 Learning Progress
+
+```mermaid
+gantt
+    title 2025 Learning Roadmap
+    dateFormat  YYYY-MM-DD
+    section Backend
+    Spring Boot Advanced    :done, 2025-01-01, 2025-03-01
+    Microservices          :active, 2025-02-01, 2025-05-01
+    section DevOps
+    Docker Mastery         :2025-03-01, 2025-06-01
+    Kubernetes             :2025-05-01, 2025-08-01
+    section Cloud
+    AWS Fundamentals       :2025-06-01, 2025-09-01
+    Cloud Architecture     :2025-08-01, 2025-12-01
+```
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+### 📬 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.shreyasshinde@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-shinde-384328265/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyas3-git)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Shreyas3-git)
+
+### 🤝 Open for Collaboration
+
+```yaml
+Looking for:
+  - Java/Spring Boot projects
+  - Open source contributions
+  - Mentorship opportunities
+  - Technical discussions
+
+Best way to reach me:
+  📧 Email: mr.shreyasshinde@gmail.com
+  💼 LinkedIn: shreyas-shinde-384328265
   
-  **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities.** 🚀
+Response time: Usually within 24 hours ⚡
+```
+
+</div>
+
+---
+
+## 💡 Developer Insights
+
+<details>
+<summary><b>🎭 My Developer Journey in GIFs</b></summary>
+<br>
+
+<div align="center">
+
+**When my code compiles on the first try:**
+<br>
+<img src="https://media.giphy.com/media/nXxOjZrbnbRxS/giphy.gif" width="300" alt="Success GIF"/>
+
+**Debugging at 3 AM:**
+<br>
+<img src="https://media.giphy.com/media/QeqmOMg4vbUs0/giphy.gif" width="300" alt="Debugging GIF"/>
+
+**When someone asks me to add "just one more feature":**
+<br>
+<img src="https://media.giphy.com/media/32mC2kXYWCsg0/giphy.gif" width="300" alt="Feature Request GIF"/>
+
+</div>
+
+</details>
+
+<details>
+<summary><b>📊 Detailed Tech Stack Breakdown</b></summary>
+<br>
+
+```yaml
+Backend Development:
+  Languages: [Java 17+, JavaScript ES6+]
+  Frameworks: [Spring Boot 3.x, Spring Security 6.x]
+  Architecture: [Microservices, RESTful APIs, MVC]
+  Testing: [JUnit 5, Mockito, Integration Testing]
+
+Database & Storage:
+  Relational: [MySQL 8.x, PostgreSQL]
+  In-Memory: [Redis, H2 Database]
+  ORM: [JPA/Hibernate, Spring Data JPA]
+
+Development Tools:
+  IDE: [IntelliJ IDEA Ultimate]
+  Build Tools: [Maven, Gradle]
+  Version Control: [Git, GitHub]
+  API Testing: [Postman, Swagger]
+
+DevOps & Deployment:
+  Containerization: [Docker]
+  Learning: [Kubernetes, Jenkins]
+  Cloud Platforms: [Learning AWS]
+```
+
+</details>
+
+---
+
+## 🎨 Latest Learning Resources
+
+<div align="center">
+
+### 📚 Currently Reading/Watching:
+- 📖 **"Microservices Patterns"** by Chris Richardson
+- 🎥 **Spring Boot 3.x Masterclass** - Udemy
+- 📚 **"Clean Code"** by Robert C. Martin  
+- 🎯 **System Design Interview** preparations
+
+### 🏅 Recent Achievements:
+- ✅ Completed **Spring Boot Advanced Course**
+- 🎯 Solved **100+ LeetCode Problems** 
+- 🚀 Built **Production-Ready Microservice**
+- 📝 Implemented **JWT Authentication System**
+
+</div>
+
+---
+
+## 🎯 Fun Facts & Quotes
+
+<div align="center">
+
+### 💭 My Coding Philosophy
+
+> *"First, solve the problem. Then, write the code."* - John Johnson
+
+### ☕ Developer Fuel Stats:
+```
+Coffee consumed: ████████████████████████████████████████ 99%
+Bugs fixed:      ███████████████████████████████████████▓ 95%
+Code quality:    ██████████████████████████████████████▓░ 92%
+Sleep quality:   ████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 25%
+```
+
+### 🎲 Random Dev Fact:
+*Did you know? The first computer bug was actually a real bug - a moth trapped in a Harvard Mark II computer in 1947!* 🦋
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**⭐ Star my repositories if you find them useful!**
+
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=120&section=footer" />
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <b>Made with ❤️ by <a href="https://github.com/Shreyas3-git">Shreyas3-git</a></b>
+  <br><br>
+  <img src="https://hits.dwyl.com/Shreyas3-git/Shreyas3-git.svg?style=flat-square&show=unique" alt="Profile Hits" />
 </div>
