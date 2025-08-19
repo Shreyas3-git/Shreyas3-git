@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Hey!+I'm+Shreyas+%F0%9F%91%8B;Backend+Java+Developer+%E2%98%95;Spring+Boot+Expert+%F0%9F%9A%80;Microservices+Architect;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Hey!+I'm+Shreyas+%F0%9F%91%8B;Backend+Java+Developer+%E2%98%95;Spring+Boot+Expert+%F0%9F%9A%80;Microservices;Open+Source+Contributor;Spring+Webflux+%F0%9F%9A%80" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -37,18 +37,15 @@ const shreyas = {
     name: "Shreyas Shinde",
     location: "Maharashtra, India 🇮🇳",
     role: "Backend Java Developer",
-    company: "Open to opportunities",
+    company: "HCL Tech",
     
-    // Current Tech Stack
     languages: ["Java", "JavaScript", "SQL", "HTML/CSS"],
     frameworks: ["Spring Boot", "Spring Security", "Spring Cloud"],
     databases: ["MySQL", "PostgreSQL", "Redis"],
     tools: ["Docker", "Git", "Maven", "Postman", "IntelliJ IDEA"],
     
-    // Currently Learning
     exploring: ["Spring WebFlux", "Reactive/Async Programming", "RxJava", "Kubernetes", "AWS"],
     
-    // Goals for 2025
     goals: [
         "Master Reactive Programming",
         "Contribute to Open Source",
@@ -56,7 +53,6 @@ const shreyas = {
         "Build Production-Ready Apps"
     ],
     
-    // Life motto
     motto: "Code with passion, debug with patience ☕"
 };
 ```
