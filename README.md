@@ -1,12 +1,12 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=200&section=header&text=Shreyas%20Shinde&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlign=50&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=200&section=header&text=Shreyas%20Shinde&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Java%20Developer&descAlign=50&descAlignY=55&descSize=18" />
 </div>
 
 <!-- Typing Animation -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Hey!+I'm+Shreyas+%F0%9F%91%8B;Java+Developer+%E2%98%95;Spring+Boot+Expert+%F0%9F%9A%80;Microservices+Architect;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Hey!+I'm+Shreyas+%F0%9F%91%8B;Backend+Java+Developer+%E2%98%95;Spring+Boot+Expert+%F0%9F%9A%80;Microservices+Architect;Open+Source+Contributor" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -30,13 +30,13 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const shreyas = {
     name: "Shreyas Shinde",
     location: "Maharashtra, India 🇮🇳",
-    role: "Full Stack Java Developer",
+    role: "Backend Java Developer",
     company: "Open to opportunities",
     
     // Current Tech Stack
@@ -46,13 +46,13 @@ const shreyas = {
     tools: ["Docker", "Git", "Maven", "Postman", "IntelliJ IDEA"],
     
     // Currently Learning
-    exploring: ["Kubernetes", "AWS", "React", "MongoDB"],
+    exploring: ["Spring WebFlux", "Reactive/Async Programming", "RxJava", "Kubernetes", "AWS"],
     
     // Goals for 2025
     goals: [
-        "Master Microservices Architecture",
+        "Master Reactive Programming",
         "Contribute to Open Source",
-        "Learn Cloud Technologies",
+        "Learn Cloud Technologies", 
         "Build Production-Ready Apps"
     ],
     
@@ -63,7 +63,7 @@ const shreyas = {
 
 ### 🌟 Quick Facts
 - 🔭 Currently working on **Advanced Spring Boot Microservices**
-- 🌱 Learning **Docker, Kubernetes & Cloud Technologies**
+- 🌱 Learning **Spring WebFlux, Reactive Programming & RxJava**
 - 👯 Looking to collaborate on **Java/Spring Boot Projects**
 - 🤔 Ask me about **Java, Spring Framework, System Design**
 - 📫 Reach me at **mr.shreyasshinde@gmail.com**
@@ -86,6 +86,8 @@ const shreyas = {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78909C?style=for-the-badge&logo=mockito&logoColor=white)
 
@@ -193,10 +195,10 @@ const shreyas = {
 ### 💻 This Week I Spent Time On:
 
 ```text
-Java                 ████████████████████████▓   68.5% 
-Spring Framework     ██████████▓░░░░░░░░░░░░░░   20.6%
-Database Design      ████▓░░░░░░░░░░░░░░░░░░░░    6.8%
-Configuration        ██▓░░░░░░░░░░░░░░░░░░░░░░    4.1%
+Java                    ████████████████████████▓   68.5% 
+Spring Framework        ██████████▓░░░░░░░░░░░░░░   20.6%
+Reactive Programming    ████▓░░░░░░░░░░░░░░░░░░░░    6.8%
+Database Design         ██▓░░░░░░░░░░░░░░░░░░░░░░    4.1%
 ```
 
 ### 🔥 Current Learning Streak:
@@ -217,7 +219,7 @@ Configuration        ██▓░░░░░░░░░░░░░░░░�
 - [ ] 🌟 **Open Source**: Contribute to 10+ repositories
 - [ ] ☁️ **Cloud**: Master AWS/Azure services  
 - [ ] 🐳 **DevOps**: Docker & Kubernetes proficiency
-- [ ] 🏗️ **Architecture**: Build scalable microservices
+- [ ] ⚡ **Reactive**: Master Spring WebFlux & RxJava
 - [ ] 📝 **Content**: Write technical blog posts
 - [x] ✅ **Security**: Advanced Spring Security implementation
 
@@ -229,7 +231,8 @@ gantt
     dateFormat  YYYY-MM-DD
     section Backend
     Spring Boot Advanced    :done, 2025-01-01, 2025-03-01
-    Microservices          :active, 2025-02-01, 2025-05-01
+    Spring WebFlux          :active, 2025-02-01, 2025-05-01
+    Reactive Programming    :active, 2025-02-15, 2025-06-01
     section DevOps
     Docker Mastery         :2025-03-01, 2025-06-01
     Kubernetes             :2025-05-01, 2025-08-01
@@ -258,6 +261,7 @@ gantt
 ```yaml
 Looking for:
   - Java/Spring Boot projects
+  - Reactive programming projects
   - Open source contributions
   - Mentorship opportunities
   - Technical discussions
@@ -304,14 +308,15 @@ Response time: Usually within 24 hours ⚡
 ```yaml
 Backend Development:
   Languages: [Java 17+, JavaScript ES6+]
-  Frameworks: [Spring Boot 3.x, Spring Security 6.x]
-  Architecture: [Microservices, RESTful APIs, MVC]
+  Frameworks: [Spring Boot 3.x, Spring Security 6.x, Spring WebFlux]
+  Reactive: [RxJava, Reactor, WebFlux]
+  Architecture: [Microservices, RESTful APIs, Reactive APIs]
   Testing: [JUnit 5, Mockito, Integration Testing]
 
 Database & Storage:
   Relational: [MySQL 8.x, PostgreSQL]
   In-Memory: [Redis, H2 Database]
-  ORM: [JPA/Hibernate, Spring Data JPA]
+  ORM: [JPA/Hibernate, Spring Data JPA, Spring Data R2DBC]
 
 Development Tools:
   IDE: [IntelliJ IDEA Ultimate]
@@ -334,9 +339,9 @@ DevOps & Deployment:
 <div align="center">
 
 ### 📚 Currently Reading/Watching:
-- 📖 **"Microservices Patterns"** by Chris Richardson
-- 🎥 **Spring Boot 3.x Masterclass** - Udemy
-- 📚 **"Clean Code"** by Robert C. Martin  
+- 📖 **"Reactive Programming with Spring WebFlux"** by Baeldung
+- 🎥 **Spring WebFlux & Reactive Programming** - Udemy
+- 📚 **"RxJava Essentials"** by Ivan Morgillo  
 - 🎯 **System Design Interview** preparations
 
 ### 🏅 Recent Achievements:
@@ -344,6 +349,7 @@ DevOps & Deployment:
 - 🎯 Solved **100+ LeetCode Problems** 
 - 🚀 Built **Production-Ready Microservice**
 - 📝 Implemented **JWT Authentication System**
+- ⚡ Started **Reactive Programming Journey**
 
 </div>
 
@@ -366,7 +372,7 @@ Sleep quality:   ████████▓░░░░░░░░░░░░
 ```
 
 ### 🎲 Random Dev Fact:
-*Did you know? The first computer bug was actually a real bug - a moth trapped in a Harvard Mark II computer in 1947!* 🦋
+*Did you know? Reactive Programming can handle 10,000+ concurrent requests while traditional blocking code struggles with just 1,000!* ⚡
 
 </div>
 
