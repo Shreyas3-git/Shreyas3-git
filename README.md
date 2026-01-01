@@ -153,39 +153,25 @@ const shreyas = {
 
 ### 🔥 Contribution Streak Stats
 
-<!-- GitHub Streak Stats Card with Vertical Layout -->
-<div style="background: linear-gradient(180deg, #0D1117 0%, #1a1a2e 100%); border: 1px solid #F85D7F; border-radius: 12px; padding: 30px 20px; margin: 20px auto; max-width: 500px; text-align: center;">
-  
-  <!-- Total Contributions -->
-  <div style="margin-bottom: 25px;">
-    <div style="font-size: 36px; font-weight: bold; color: #00D4FF; margin-bottom: 8px;">1,058</div>
-    <div style="font-size: 15px; color: #8892B0; margin-bottom: 4px; font-weight: 500;">Total Contributions</div>
-    <div style="font-size: 12px; color: #6A737D;">Apr 26, 2021 - Present</div>
-  </div>
-
-  <!-- Divider -->
-  <div style="height: 1px; background: linear-gradient(90deg, transparent, #F85D7F, transparent); margin: 20px 0;"></div>
-
-  <!-- Current Streak -->
-  <div style="margin-bottom: 25px;">
-    <div style="width: 100px; height: 100px; border: 3px solid #F85D7F; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 12px; background: rgba(248, 93, 127, 0.05);">
-      <span style="font-size: 36px; font-weight: bold; color: #F85D7F;">157</span>
-    </div>
-    <div style="font-size: 15px; color: #8892B0; margin-bottom: 4px; font-weight: 500;">Current Streak</div>
-    <div style="font-size: 12px; color: #6A737D;">Jul 29, 2025 - Jan 1</div>
-  </div>
-
-  <!-- Divider -->
-  <div style="height: 1px; background: linear-gradient(90deg, transparent, #F85D7F, transparent); margin: 20px 0;"></div>
-
-  <!-- Longest Streak -->
-  <div>
-    <div style="font-size: 36px; font-weight: bold; color: #F8D866; margin-bottom: 8px;">157</div>
-    <div style="font-size: 15px; color: #8892B0; margin-bottom: 4px; font-weight: 500;">Longest Streak</div>
-    <div style="font-size: 12px; color: #6A737D;">All Time</div>
-  </div>
-
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
+<h3 style="color: #00D4FF;">1,058</h3>
+<p><strong>Total Contributions</strong></p>
+<small>Apr 26, 2021 - Present</small>
+</td>
+<td align="center" width="34%">
+<h3 style="color: #F85D7F;">157</h3>
+<p><strong>Current Streak</strong></p>
+<small>Jul 29, 2025 - Jan 1</small>
+</td>
+<td align="center" width="33%">
+<h3 style="color: #F8D866;">157</h3>
+<p><strong>Longest Streak</strong></p>
+<small>All Time</small>
+</td>
+</tr>
+</table>
 
 </div>
 
