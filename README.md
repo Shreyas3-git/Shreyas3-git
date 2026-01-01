@@ -164,9 +164,49 @@ const shreyas = {
 
 </div>
 
-<!-- GitHub Streak Stats -->
+## 📊 GitHub Statistics & Streak
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shreyas3-git&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+
+### 🔥 Contribution Streak Stats
+
+<!-- GitHub Streak Stats Card with Numbers -->
+<div style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); border: 1px solid #F85D7F; border-radius: 12px; padding: 20px; margin: 20px auto; max-width: 600px; display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+  
+  <div style="text-align: center; flex: 1; border-right: 1px solid #F85D7F; padding-right: 20px;">
+    <div style="font-size: 32px; font-weight: bold; color: #00D4FF; margin-bottom: 8px;">1,058</div>
+    <div style="font-size: 14px; color: #8892B0; margin-bottom: 4px;">Total Contributions</div>
+    <div style="font-size: 12px; color: #6A737D;">Apr 26, 2021 - Present</div>
+  </div>
+
+  <div style="text-align: center; flex: 1; padding: 0 20px;">
+    <div style="width: 80px; height: 80px; border: 3px solid #F85D7F; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 8px;">
+      <span style="font-size: 28px; font-weight: bold; color: #F85D7F;">157</span>
+    </div>
+    <div style="font-size: 14px; color: #8892B0; margin-bottom: 4px;">Current Streak</div>
+    <div style="font-size: 12px; color: #6A737D;">Jul 29, 2025 - Jan 1</div>
+  </div>
+
+  <div style="text-align: center; flex: 1; border-left: 1px solid #F85D7F; padding-left: 20px;">
+    <div style="font-size: 32px; font-weight: bold; color: #F8D866; margin-bottom: 8px;">157</div>
+    <div style="font-size: 14px; color: #8892B0; margin-bottom: 4px;">Longest Streak</div>
+    <div style="font-size: 12px; color: #6A737D;">All Time</div>
+  </div>
+
+</div>
+
+</div>
+
+### 📈 Additional GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Shreyas3-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<!-- Most Used Languages -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
 </div>
 
 <!-- Contribution Activity Graph -->
@@ -175,6 +215,7 @@ const shreyas = {
 </div>
 
 ---
+
 
 ## 🏆 GitHub Achievements
 
