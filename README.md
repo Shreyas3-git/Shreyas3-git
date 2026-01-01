@@ -32,7 +32,6 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```javascript
 const shreyas = {
     name: "Shreyas Shinde",
     location: "Maharashtra, India 🇮🇳",
@@ -55,7 +54,6 @@ const shreyas = {
     
     motto: "Code with passion, debug with patience ☕"
 };
-```
 
 ### 🌟 Quick Facts
 - 🔭 Currently working on **Advanced Spring Boot Microservices**
@@ -129,7 +127,6 @@ const shreyas = {
 **🧪 Testing:** Comprehensive testing with JUnit 5 & Mockito
 
 #### ✨ Key Features Implemented:
-```yaml
 🎫 Booking Management:
   ├── Real-time seat selection
   ├── Payment gateway integration  
@@ -147,22 +144,8 @@ const shreyas = {
   ├── Service layer architecture
   ├── Data validation & error handling
   └── Logging & monitoring
-```
 
 ---
-
-## 📊 GitHub Statistics
-
-<!-- Alternative GitHub Stats -->
-<div align="center">
-  
-<!-- GitHub Stats Card -->
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Shreyas3-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-
-<!-- Most Used Languages -->
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
-
-</div>
 
 ## 📊 GitHub Statistics & Streak
 
@@ -170,26 +153,35 @@ const shreyas = {
 
 ### 🔥 Contribution Streak Stats
 
-<!-- GitHub Streak Stats Card with Numbers -->
-<div style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%); border: 1px solid #F85D7F; border-radius: 12px; padding: 20px; margin: 20px auto; max-width: 600px; display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+<!-- GitHub Streak Stats Card with Vertical Layout -->
+<div style="background: linear-gradient(180deg, #0D1117 0%, #1a1a2e 100%); border: 1px solid #F85D7F; border-radius: 12px; padding: 30px 20px; margin: 20px auto; max-width: 500px; text-align: center;">
   
-  <div style="text-align: center; flex: 1; border-right: 1px solid #F85D7F; padding-right: 20px;">
-    <div style="font-size: 32px; font-weight: bold; color: #00D4FF; margin-bottom: 8px;">1,058</div>
-    <div style="font-size: 14px; color: #8892B0; margin-bottom: 4px;">Total Contributions</div>
+  <!-- Total Contributions -->
+  <div style="margin-bottom: 25px;">
+    <div style="font-size: 36px; font-weight: bold; color: #00D4FF; margin-bottom: 8px;">1,058</div>
+    <div style="font-size: 15px; color: #8892B0; margin-bottom: 4px; font-weight: 500;">Total Contributions</div>
     <div style="font-size: 12px; color: #6A737D;">Apr 26, 2021 - Present</div>
   </div>
 
-  <div style="text-align: center; flex: 1; padding: 0 20px;">
-    <div style="width: 80px; height: 80px; border: 3px solid #F85D7F; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 8px;">
-      <span style="font-size: 28px; font-weight: bold; color: #F85D7F;">157</span>
+  <!-- Divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #F85D7F, transparent); margin: 20px 0;"></div>
+
+  <!-- Current Streak -->
+  <div style="margin-bottom: 25px;">
+    <div style="width: 100px; height: 100px; border: 3px solid #F85D7F; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 12px; background: rgba(248, 93, 127, 0.05);">
+      <span style="font-size: 36px; font-weight: bold; color: #F85D7F;">157</span>
     </div>
-    <div style="font-size: 14px; color: #8892B0; margin-bottom: 4px;">Current Streak</div>
+    <div style="font-size: 15px; color: #8892B0; margin-bottom: 4px; font-weight: 500;">Current Streak</div>
     <div style="font-size: 12px; color: #6A737D;">Jul 29, 2025 - Jan 1</div>
   </div>
 
-  <div style="text-align: center; flex: 1; border-left: 1px solid #F85D7F; padding-left: 20px;">
-    <div style="font-size: 32px; font-weight: bold; color: #F8D866; margin-bottom: 8px;">157</div>
-    <div style="font-size: 14px; color: #8892B0; margin-bottom: 4px;">Longest Streak</div>
+  <!-- Divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #F85D7F, transparent); margin: 20px 0;"></div>
+
+  <!-- Longest Streak -->
+  <div>
+    <div style="font-size: 36px; font-weight: bold; color: #F8D866; margin-bottom: 8px;">157</div>
+    <div style="font-size: 15px; color: #8892B0; margin-bottom: 4px; font-weight: 500;">Longest Streak</div>
     <div style="font-size: 12px; color: #6A737D;">All Time</div>
   </div>
 
@@ -216,7 +208,6 @@ const shreyas = {
 
 ---
 
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -231,12 +222,10 @@ const shreyas = {
 
 ### 💻 This Week I Spent Time On:
 
-```text
 Java                    ████████████████████████▓   68.5% 
 Spring Framework        ██████████▓░░░░░░░░░░░░░░   20.6%
 Reactive Programming    ████▓░░░░░░░░░░░░░░░░░░░░    6.8%
 Database Design         ██▓░░░░░░░░░░░░░░░░░░░░░░    4.1%
-```
 
 ### 🔥 Current Learning Streak:
 - 🎯 **150+ Days** of consistent coding
@@ -262,7 +251,6 @@ Database Design         ██▓░░░░░░░░░░░░░░░�
 
 ### 📊 Learning Progress
 
-```mermaid
 gantt
     title 2025 Learning Roadmap
     dateFormat  YYYY-MM-DD
@@ -276,7 +264,6 @@ gantt
     section Cloud
     AWS Fundamentals       :2025-06-01, 2025-09-01
     Cloud Architecture     :2025-08-01, 2025-12-01
-```
 
 </div>
 
@@ -295,7 +282,6 @@ gantt
 
 ### 🤝 Open for Collaboration
 
-```yaml
 Looking for:
   - Java/Spring Boot projects
   - Reactive programming projects
@@ -308,7 +294,6 @@ Best way to reach me:
   💼 LinkedIn: shreyas-shinde-384328265
   
 Response time: Usually within 24 hours ⚡
-```
 
 </div>
 
@@ -342,7 +327,6 @@ Response time: Usually within 24 hours ⚡
 <summary><b>📊 Detailed Tech Stack Breakdown</b></summary>
 <br>
 
-```yaml
 Backend Development:
   Languages: [Java 17+, JavaScript ES6+]
   Frameworks: [Spring Boot 3.x, Spring Security 6.x, Spring WebFlux]
@@ -365,7 +349,6 @@ DevOps & Deployment:
   Containerization: [Docker]
   Learning: [Kubernetes, Jenkins]
   Cloud Platforms: [Learning AWS]
-```
 
 </details>
 
@@ -401,12 +384,10 @@ DevOps & Deployment:
 > *"First, solve the problem. Then, write the code."* - John Johnson
 
 ### ☕ Developer Fuel Stats:
-```
 Coffee consumed: ████████████████████████████████████████ 99%
 Bugs fixed:      ███████████████████████████████████████▓ 95%
 Code quality:    ██████████████████████████████████████▓░ 92%
 Sleep quality:   ████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 25%
-```
 
 ### 🎲 Random Dev Fact:
 *Did you know? Reactive Programming can handle 10,000+ concurrent requests while traditional blocking code struggles with just 1,000!* ⚡
