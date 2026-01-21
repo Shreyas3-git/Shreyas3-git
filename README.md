@@ -153,25 +153,13 @@ const shreyas = {
 
 ### 🔥 Contribution Streak Stats
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h3 style="color: #00D4FF;">1,058</h3>
-<p><strong>Total Contributions</strong></p>
-<small>Apr 26, 2021 - Present</small>
-</td>
-<td align="center" width="34%">
-<h3 style="color: #F85D7F;">157</h3>
-<p><strong>Current Streak</strong></p>
-<small>Jul 29, 2025 - Jan 1</small>
-</td>
-<td align="center" width="33%">
-<h3 style="color: #F8D866;">157</h3>
-<p><strong>Longest Streak</strong></p>
-<small>All Time</small>
-</td>
-</tr>
-</table>
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Shreyas3-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800&v=2026" alt="GitHub Stats" />
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&cache_seconds=1800&v=2026" alt="Top Languages" />
+
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Shreyas3-git&theme=tokyonight&hide_border=true&background=0D1117&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F&timezone=Asia/Kolkata&v=2026" alt="GitHub Streak" />
 
 </div>
 
