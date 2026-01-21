@@ -180,7 +180,12 @@ const shreyas = {
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Shreyas3-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Shreyas3-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800&v=2026" alt="GitHub Stats" />
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&cache_seconds=1800&v=2026" alt="Top Languages" />
+
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Shreyas3-git&theme=tokyonight&hide_border=true&background=0D1117&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F&timezone=Asia/Kolkata&v=2026" alt="GitHub Streak" />
 
 <!-- Most Used Languages -->
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
