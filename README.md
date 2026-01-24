@@ -159,8 +159,7 @@ const shreyas = {
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&cache_seconds=1800&v=2026" alt="Top Languages" />
 
   <br>
-<img src="https://streak-stats.demolab.com?user=Shreyas3-git&theme=tokyonight&hide_border=true&background=0D1117&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F&timezone=Asia/Kolkata&v=2026" alt="GitHub Streak" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas3-git&theme=tokyonight&hide_border=true&background=0D1117&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </div>
 
 ---
