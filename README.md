@@ -191,22 +191,6 @@ Database Design       ██▓░░░░░░░░░░░░░░░░�
 - [ ] 📝 **Content**: Write technical blog posts
 - [x] ✅ **Security**: Advanced Spring Security implementation
 
-### 📊 Learning Progress
-
-gantt
-    title 2025 Learning Roadmap
-    dateFormat  YYYY-MM-DD
-    section Backend
-    Spring Boot Advanced    :done, 2025-01-01, 2025-03-01
-    Spring WebFlux          :active, 2025-02-01, 2025-05-01
-    Reactive Programming    :active, 2025-02-15, 2025-06-01
-    section DevOps
-    Docker Mastery         :2025-03-01, 2025-06-01
-    Kubernetes             :2025-05-01, 2025-08-01
-    section Cloud
-    AWS Fundamentals       :2025-06-01, 2025-09-01
-    Cloud Architecture     :2025-08-01, 2025-12-01
-
 </div>
 
 ---
@@ -326,10 +310,12 @@ DevOps & Deployment:
 > *"First, solve the problem. Then, write the code."* - John Johnson
 
 ### ☕ Developer Fuel Stats:
+<pre>
 Coffee consumed: ████████████████████████████████████████ 99%
 Bugs fixed:      ███████████████████████████████████████▓ 95%
 Code quality:    ██████████████████████████████████████▓░ 92%
 Sleep quality:   ████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 25%
+</pre>
 
 ### 🎲 Random Dev Fact:
 *Did you know? Reactive Programming can handle 10,000+ concurrent requests while traditional blocking code struggles with just 1,000!* ⚡
