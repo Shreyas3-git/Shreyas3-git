@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&height=70&lines=Hey!+I'm+Shreyas+%F0%9F%91%8B;Backend+Dev+Expert+%E2%98%95;Spring+Boot+%F0%9F%9A%80;Microservices;Open+Source+Contributor;Spring+Webflux+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Hey!+I'm+Shreyas+%F0%9F%91%8B;Backend+Dev+Expert+%E2%98%95;Spring+Boot+%2B+Microservices+%F0%9F%9A%80;Kafka+Event+Streaming+%E2%9A%99%EF%B8%8F;JUnit+%2B+Mockito+Testing+%E2%9C%85;Database+Design+%F0%9F%93%84" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -152,22 +152,8 @@ const shreyas = {
 <div align="center">
 
 ### 🔥 Contribution Streak Stats
-
-
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Shreyas3-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800&v=2026" alt="GitHub Stats" />
-
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas3-git&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&cache_seconds=1800&v=2026" alt="Top Languages" />
-
   <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas3-git&theme=tokyonight&hide_border=true&background=0D1117&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F&timezone=Asia/Kolkata" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreyas3-git&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -184,7 +170,7 @@ Reactive Programming    ████▓░░░░░░░░░░░░░�
 Database Design         ██▓░░░░░░░░░░░░░░░░░░░░░░    4.1%
 
 ### 🔥 Current Learning Streak:
-- 🎯 **150+ Days** of consistent coding
+- 🎯 **250+ Days** of consistent coding
 - 📚 **5+ Technologies** actively learning
 - 🚀 **3+ Projects** in development
 - 💡 **Daily** algorithm practice
@@ -193,12 +179,11 @@ Database Design         ██▓░░░░░░░░░░░░░░░�
 
 ---
 
-## 🎯 2025 Goals & Roadmap
+## 🎯 2026 Goals & Roadmap
 
 <div align="center">
 
 ### 🚀 Technical Goals
-- [ ] 🌟 **Open Source**: Contribute to 10+ repositories
 - [ ] ☁️ **Cloud**: Master AWS/Azure services  
 - [ ] 🐳 **DevOps**: Docker & Kubernetes proficiency
 - [ ] ⚡ **Reactive**: Master Spring WebFlux & RxJava
