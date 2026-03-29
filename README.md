@@ -164,10 +164,11 @@ const shreyas = {
 
 ### 💻 This Week I Spent Time On:
 
-Java                    ████████████████████████▓   68.5% 
-Spring Framework        ██████████▓░░░░░░░░░░░░░░   20.6%
-Reactive Programming    ████▓░░░░░░░░░░░░░░░░░░░░    6.8%
-Database Design         ██▓░░░░░░░░░░░░░░░░░░░░░░    4.1%
+
+Java                  ████████████████████████▓   68.5% 
+Spring Framework      ██████████▓░░░░░░░░░░░░░░   20.6%
+Reactive Programming  ████▓░░░░░░░░░░░░░░░░░░░░    6.8%
+Database Design       ██▓░░░░░░░░░░░░░░░░░░░░░░    4.1%
 
 ### 🔥 Current Learning Streak:
 - 🎯 **250+ Days** of consistent coding
