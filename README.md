@@ -36,7 +36,7 @@ const shreyas = {
     name: "Shreyas Shinde",
     location: "Maharashtra, India 🇮🇳",
     role: "Backend Java Developer",
-    company: "HCL Tech",
+    company: "TCS",
     
     languages: ["Java", "JavaScript", "SQL", "HTML/CSS"],
     frameworks: ["Spring Boot", "Spring Security", "Spring Cloud"],
